@@ -17,13 +17,13 @@ def test():
 def bot():
     txt = request.values.get('Body', '').lower()
     res = MessagingResponse()
-    msg = res.message()
+    # msg = res.message() #ERROR!!!
     ok  = False
 
     if 'hello' in txt:
         # Register phone
         text = 'Welcome to Paysapp'
-        msg.body(text)
+        res.message(text)
         ok = True
 
     if 'balance' in txt:
@@ -35,14 +35,14 @@ def bot():
         #else:
         #    quote = 'Balance unavailable, try again in a minute'
         text = 'Your balance is 125.00 USD'
-        msg.body(text)
+        res.message(text)
         ok = True
 
     if 'pay' in txt:
         # split parts, verify info and send money
         # msg.media('https://gateway.example.com/receipt')
         text = 'Payment sent'
-        msg.body(text)
+        res.message(text)
         ok = True
 
     if not ok:
