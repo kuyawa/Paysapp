@@ -46,7 +46,7 @@ def bot():
         ok = True
 
     if not ok:
-        msg.body('Invalid action, RTFM!')
+        res.message('Invalid action, RTFM!')
 
     return str(res)
 
