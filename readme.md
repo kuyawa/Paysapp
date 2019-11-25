@@ -29,7 +29,7 @@ Join us in this incredible journey, try Paysapp in the Testnet while we finish s
 ### Timeline:
 
 - Initial development and testing
-- World currencies and top criptos
+- World currencies and top cryptos
 - Expanding to all assets and trading
 - Deposits via credit cards
 - Withdrawals to bank accounts
