@@ -3,6 +3,7 @@
 
 Send money to more than a billion people in the world via Whatsapp, any currency, any asset, in seconds using the Stellar Network.
 
+![hero](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp.png)
 
 ### Goals:
 
