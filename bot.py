@@ -10,15 +10,11 @@ app = Flask(__name__)
 # Environment variables
 
 TWILIO_AUTH_TOKEN = os.environ.get('TWILIO_AUTH_TOKEN')
-GATEWAY = os.environ.get('GATEWAY') or 'localhost:8000/gateway'
+GATEWAY = os.environ.get('GATEWAY')
 APP_DEBUG = (TWILIO_AUTH_TOKEN is None)
-
-print('Token',TWILIO_AUTH_TOKEN)
-print('debug?',APP_DEBUG)
 
 
 # Twilio validation
-
 def validate_twilio_request(f):
     """Validates that incoming requests genuinely originated from Twilio"""
     @wraps(f)
@@ -59,7 +55,7 @@ def bot():
     res = MessagingResponse()
     ok  = False
     
-    if not gateway: 
+    if not GATEWAY: 
         text = 'Paysapp is down. Try again later'
         res.message(text)
         return str(res)
