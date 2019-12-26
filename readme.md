@@ -20,9 +20,9 @@ That's how simple Paysapp is. With a handful of actions you can send money all o
 
 The messaging platform will be provided by Whatsapp and the unbreakable ledger by the Stellar Network, a match made in heaven.
 
-In order to test the platform you have to add +14155238886 to your Whatsapp contacts and send the following message 'join official-pleasure' to access the testing sandbox. Once greeted by the Whatsapp bot all comunication will be between our servers and your commands, now send 'hello' to activate your wallet and we will create a Stellar account with 10000 XLM for you to test. If you want to set a vanity name just send the command 'name Caroline' and that name will be reserved for you if not already taken, then people can send money directly to your phone number or Paysapp name. Isn't that awesome?
+In order to test the platform you have to add +14155238886 to your Whatsapp contacts and send the following message `join official-pleasure` to access the testing sandbox. Once greeted by the Whatsapp bot all comunication will be between our servers and your commands, now send `register Caroline` to activate your wallet and we will create a Stellar account with 10000 XLM for you to test and that name will be reserved for you if not already taken, then people can send money directly to your Paysapp name as in `pay 100 to Caroline`. Isn't that awesome?
 
-From now on all you have to do is use the 'pay' command to send money all over the world. 'Pay 100 to George' and I will receive 100 USD in my account. The default asset is XLM but you can easily change it to any of the 150 currencies in the world with this simple command 'asset USD' using any 3 char currency code. Want to send GOLD or SLVR? GOAT or HUGS? Easy peasy, we can trade any imaginable asset in the Stellar Exchange, but that'll take a bit longer, we're working on all the amazing features a modern wallet should have. 
+From now on all you have to do is use the 'pay' command to send money all over the world. `Pay 100 to George` and I will receive 100 USD in my account. The default asset is XLM but you can easily change it to any of the 150 currencies in the world with this simple command 'currency USD' using any 3 char currency code. Want to send GOLD or SLVR? GOAT or HUGS? Easy peasy, we can trade any imaginable asset in the Stellar Exchange, but that'll take a bit longer, we're working on all the amazing features a modern wallet should have. 
 
 Join us in this incredible journey, try Paysapp in the Testnet while we finish some details and prepare for the countdown. Lift off in 3, 2, 1...
 
@@ -30,12 +30,13 @@ Join us in this incredible journey, try Paysapp in the Testnet while we finish s
 ### Timeline:
 
 - Initial development and testing
+- Major messaging apps like Whatsapp, Telegram, Keybase, Matrix and Discord
 - World currencies and top cryptos
 - Expanding to all assets and trading
 - Deposits via credit cards
 - Withdrawals to bank accounts
 - Multiple languages and internationalization
-- World conquest
+- World domination
 
 
 ### Links:
