@@ -110,6 +110,6 @@ That's how you setup your Paysapp account in the most used messaging apps in the
 ![discord](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-discord.jpg)
 ![slack](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-slack.jpg)
 ![twitter](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-twitter.jpg)
-![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.jpg)
+![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.png)
 ![matrix](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-matrix.jpg)
 
