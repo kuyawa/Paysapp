@@ -54,6 +54,8 @@ By far the most used and at the same time most complicated to setup of all since
 
 # Telegram
 
+![telegram](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-telegram.jpg)
+
 The easiest of all and the richest experience for a messaging bot:
 
 - Add `Paysappbot` to your chats
@@ -64,6 +66,8 @@ Alternatively you could visit this link https://t.me/paysappbot and add the bot 
 
 # Keybase
 
+![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.png)
+
 Another simple platform and very easy to use, already has a Stellar wallet available to their users, the more the merrier:
 
 - Add `Paysapp` to your chats
@@ -71,6 +75,8 @@ Another simple platform and very easy to use, already has a Stellar wallet avail
 - Type `help` for more info
 
 # Matrix using Riot.im
+
+![matrix](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-matrix.jpg)
 
 A rising open source network selected by Mozilla to be their messaging platform of choice:
 
@@ -80,6 +86,8 @@ A rising open source network selected by Mozilla to be their messaging platform 
 
 # Discord
 
+![discord](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-discord.jpg)
+
 The preferred platform for gamers around the world is a little complicated with their authorization process:
 
 - Click the following url to authorize the [Paysapp bot](https://discordapp.com/api/oauth2/authorize?client_id=658473665658224641&permissions=92224&scope=bot)
@@ -88,6 +96,8 @@ The preferred platform for gamers around the world is a little complicated with 
 
 # Slack
 
+![slack](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-slack.jpg)
+
 The most used messaging app in the enterprise world is also a bit complicated, there is no direct way to add a bot to your chats, instead add it to your workspaces using an authorization link:
 
 - Click the [Paysapp button](https://paysapp.net/slack) to add it to your workspace
@@ -95,6 +105,8 @@ The most used messaging app in the enterprise world is also a bit complicated, t
 - Type `help` for more info
 
 # Twitter
+
+![twitter](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-twitter.jpg)
 
 A popular choice for following interesting people and being up to date in news is also easy to setup:
 
@@ -106,10 +118,4 @@ A popular choice for following interesting people and being up to date in news i
 That's how you setup your Paysapp account in the most used messaging apps in the world. You can have as many accounts as you need, for personal or business use, but remember every app needs a unique name so payments and notifications find their way to the right destination.
 
 
-![telegram](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-telegram.jpg)
-![discord](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-discord.jpg)
-![slack](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-slack.jpg)
-![twitter](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-twitter.jpg)
-![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.png)
-![matrix](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-matrix.jpg)
-
+## Paysapp - Send money worldwide with just a message!
