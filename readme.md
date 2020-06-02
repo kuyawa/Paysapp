@@ -106,10 +106,10 @@ A popular choice for following interesting people and being up to date in news i
 That's how you setup your Paysapp account in the most used messaging apps in the world. You can have as many accounts as you need, for personal or business use, but remember every app needs a unique name so payments and notifications find their way to the right destination.
 
 
-![telegram](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-telegram.jpg =200)
-![discord](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-discord.jpg =200)
-![slack](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-slack.jpg =200)
-![twitter](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-twitter.jpg =200)
-![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.jpg =200)
-![matrix](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-matrix.jpg =200)
+![telegram](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-telegram.jpg)
+![discord](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-discord.jpg)
+![slack](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-slack.jpg)
+![twitter](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-twitter.jpg)
+![keybase](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-keybase.jpg)
+![matrix](https://github.com/kuyawa/Paysapp/blob/master/media/paysapp-matrix.jpg)
 
